@@ -2,6 +2,7 @@ class Foobar
 
 def do_it
 "done"
+"now or later"
 end
 end
 
